@@ -1,4 +1,4 @@
-PYTHON-JOURNEY/
+<pre>PYTHON-JOURNEY/
 │
 ├── PYTHON PHASE 1/
 │   ├── Basics.py
@@ -20,4 +20,4 @@ PYTHON-JOURNEY/
     Python Journey
 ████░░░░░░░░░░░░░░░░  Learning in Progress....
 
-⭐ This repository is a record of my progress—not a record of perfect code.
+⭐ This repository is a record of my progress—not a record of perfect code. </pre>
