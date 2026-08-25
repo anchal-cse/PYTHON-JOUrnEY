@@ -2,8 +2,8 @@
 # b=int(input("enter second number "))
 # print("sum of two numbers is",a+b)
 # print(2**3) # 2 raised to the power 3"
-# print(7//2) floor division
-# print(7%3)
+# print(7//2)  # floor division
+# print(7%3) # reminder
 
 
 # a=int(input("enter first number:"))  # assignment
@@ -18,9 +18,9 @@
 # print(a>b,a<b,a>=b,a<=b,a==b,a!=b)
 
 
-# a=2
-# b=3
-# print(a&b,a|b,a^b,~a,a<<1,a>>1)  # bitwise
+a=2
+b=3
+print(a&b/n,a|b,a^b,~a,a<<1,a>>1)  # bitwise
 
 
 # a=True

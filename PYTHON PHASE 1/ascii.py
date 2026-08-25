@@ -4,3 +4,4 @@ b=' '
 hello="c"
 print(ord(b))
 print(ord(hello))
+print(ord(d))
