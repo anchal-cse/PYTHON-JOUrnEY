@@ -18,10 +18,10 @@
 # print(a>b,a<b,a>=b,a<=b,a==b,a!=b)
 
 
-a=2
-b=3
-print(a&b/n,a|b,a^b,~a,a<<1,a>>1)  # bitwise
-
+# a=2
+# b=3
+# print(a&b,a|b,a^b,~a,a<<1,a>>1)  # bitwise
+ 
 
 # a=True
 # b=None 

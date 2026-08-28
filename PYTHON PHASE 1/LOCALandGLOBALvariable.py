@@ -1,24 +1,25 @@
-# def function(): # local variable it tell the python what the function should do :-it define the function
-#     a = 10
-#     print(a)
+def function(): # local variable it tell the python what the function should do :-it define the function
+    a = 10
+    print(a)
 
-# function()# to execute the function we have to call itby its name 
-#            #without calling the function it will not execute the function only defining the function will not execute it
+function()# to execute the function we have to call itby its name 
+           #without calling the function it will not execute the function only defining the function will not execute it
 
 
 
-# a = 20 
+a = 20 
 
-# def function(): #glob variable
-#     print(a)
+def function(): #glob variable
+    print(a)
 
-# function()
-# print(a)
+function()
+print(a)
 
 a = 20
 
 def function():
-    global a
+    global a # this tells that I am going to modify the global variable a inside this function
+             # not a new local a 
     a = a + 2
 
 function()
